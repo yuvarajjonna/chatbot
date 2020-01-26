@@ -1,4 +1,4 @@
-# chatbot
+# Chatbot
 
 ## Pre requirements
 * python 3.7

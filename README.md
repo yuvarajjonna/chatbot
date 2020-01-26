@@ -7,5 +7,6 @@
 * Chatterbot==1.0.2
 * pytz
 * pywin32
+* WebSocketServer
 
 ## Author - `YUVARAJ JONNA`
